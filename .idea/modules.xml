@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SmartStart.iml" filepath="$PROJECT_DIR$/.idea/modules/SmartStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SmartStart.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SmartStart.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SmartStart.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SmartStart.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SmartStart.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SmartStart.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SmartStart.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SmartStart.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

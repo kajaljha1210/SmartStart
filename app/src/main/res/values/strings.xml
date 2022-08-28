@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SmartStart</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="facebook_app_id">628468102039200</string>
+    <string name="fb_login_protocol_scheme">fb628468102039200</string>
+    <string name="facebook_client_token">0abb4262c091759e5d86fba3f3d7dddd</string>
+    <!--    <string name="googlekey">AIzaSyDqhl6wYjPeepHb_koevDTe9vkDNd03Go8</string>-->
+
+
+</resources>
